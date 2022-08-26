@@ -1,2 +1,2 @@
 # spring-boot
-Latest spring boot end to end development 
+This is spring boot with rest service example using rest doc OPENAPI 3.0 
